@@ -5,18 +5,31 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
+		"Alignment",
 		"All Autocomplete",
+		"AutoFileName",
 		"Babel",
+		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
+		"DictionaryAutoComplete",
 		"Emmet",
 		"ERB Snippets",
+		"FileDiffs",
 		"Git",
 		"GitGutter",
+		"Indent XML",
+		"Jedi - Python autocompletion",
+		"Latest Migration",
+		"MagicPython",
 		"Package Control",
 		"SCSS",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-pep8",
+		"SublimeLinter-rubocop",
+		"TrailingSpaces"
 	]
 }
